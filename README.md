@@ -1,5 +1,6 @@
 ### Hi there 👋, this is me Arnab Sikder.
 #### Undergraduate CSE Student
+[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Hello+people!;Let's+git.)](https://git.io/typing-svg)
 ![Undergraduate CSE Student](https://pbs.twimg.com/media/GeYJFWya0AAi2e7?format=jpg&name=small)
 
 I am an undergraduate student with a passion for learning and exploring the world of programming.I am currently building my skills and working on small projects to strengthen my foundation in programming and development.
