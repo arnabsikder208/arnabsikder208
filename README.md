@@ -15,3 +15,4 @@ Skills: C/HTML
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=arnabsikder208&show_icons=true)  
 
+[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Hello+people!;Let's+git.)](https://git.io/typing-svg)
